@@ -16,6 +16,7 @@ Tutorials
 * [Rails for Zombies] (http://railsforzombies.org/)
 * [Rails tutorial] (http://ruby.railstutorial.org)
 * [Learn Rails] (https://learn.thoughtbot.com/rails)
+* [A Quick Study of the Rails Directory Structure] (http://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
 
 ### Git and GitHub
 * [What is VCS? (Git-SCM) • Git Basics #1] (https://www.youtube.com/watch?v=8oRjP8yj2Wo)
