@@ -37,6 +37,7 @@ Tutorials
 * [Installing and Configuring Fedora 4] (https://wiki.duraspace.org/display/FF/Training+-+Administrator+Introduction)
 
 ### Other
+* [The Command Line Crash Course - Learn to Code the Hard Way] (http://cli.learncodethehardway.org/book/)
+* [Learn Enough Command Line to be Dangerous] (http://www.learnenough.com/command-line-tutorial)
 * [Linux command line tutorial] (http://linuxcommand.org)
 * [Linux Survival] (http://linuxsurvival.com)
-
