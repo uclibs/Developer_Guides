@@ -7,7 +7,7 @@ Setting up Rails/Samvera development on a Mac
 ### Install Homebrew
 1. /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 1. brew update
-1. brew install clamav ffmpeg git imagemagick openssl redis sqlite ghostscript mysql
+1. brew install clamav ffmpeg git imagemagick openssl redis sqlite ghostscript mysql wget
 
 ### Install rvm
 1. \curl -sSL https://get.rvm.io | bash -s stable --ruby
