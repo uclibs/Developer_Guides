@@ -8,7 +8,7 @@ Tutorials
 * [Mr. Neighborly's Humble Little Ruby Book] (http://www.humblelittlerubybook.com)
 * [Programming Ruby] (http://ruby-doc.com/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby] (http://mislav.uniqpath.com/poignant-guide/)
-* Debugging: [byebug] (https://github.com/deivid-rodriguez/byebug)
+* [Ruby Koans] (http://rubykoans.com)
 
 ### Rails
 * [RailsBridge Intro To Rails] (http://docs.railsbridge.org/intro-to-rails/intro-to-rails)
@@ -17,6 +17,12 @@ Tutorials
 * [Rails tutorial] (http://ruby.railstutorial.org)
 * [Learn Rails] (https://learn.thoughtbot.com/rails)
 * [A Quick Study of the Rails Directory Structure] (http://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
+
+### Testing
+* [RSpec Tutorial With Examples] (https://www.rubyguides.com/2018/07/rspec-tutorial/)
+
+### Debugging
+* [byebug] (https://github.com/deivid-rodriguez/byebug)
 
 ### Git and GitHub
 * [What is VCS? (Git-SCM) • Git Basics #1] (https://www.youtube.com/watch?v=8oRjP8yj2Wo)
