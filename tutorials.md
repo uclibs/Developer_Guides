@@ -2,7 +2,6 @@ Tutorials
 ---------
 
 ### Ruby
-* [Try Ruby] (http://tryruby.org)
 * [Ruby on Rails Tutorial (online book)] (https://www.railstutorial.org/book)
 * [Codecademy] (http://www.codecademy.com/)
 * [Mr. Neighborly's Humble Little Ruby Book] (http://www.humblelittlerubybook.com)
@@ -37,6 +36,7 @@ Tutorials
 * [Diff] (https://www.youtube.com/watch?v=RXSriVcoI70)
 * [Gitflow] (http://nvie.com/posts/a-successful-git-branching-model/)
 * [Git Code School tutorial] (https://try.github.io)
+* [Learn Git Branching] (https://learngitbranching.js.org/)
 
 ### Hydra
 * [Dive into Hydra] (https://github.com/projecthydra/hydra/wiki/Dive-into-Hydra)
@@ -47,3 +47,6 @@ Tutorials
 * [Learn Enough Command Line to be Dangerous] (http://www.learnenough.com/command-line-tutorial)
 * [Linux command line tutorial] (http://linuxcommand.org)
 * [Linux Survival] (http://linuxsurvival.com)
+
+### University Provided Resources
+* [Lynda Through UC] (http://www.uc.edu/ucit/learningtechnologies/lynda.html)
