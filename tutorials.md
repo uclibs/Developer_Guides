@@ -2,9 +2,7 @@ Tutorials
 ---------
 
 ### Ruby
-* [Ruby on Rails Tutorial (online book)](https://www.railstutorial.org/book)
-* [Codecademy](http://www.codecademy.com/)
-* [Mr. Neighborly's Humble Little Ruby Book](http://www.humblelittlerubybook.com)
+* [Mr. Neighborly's Humble Little Ruby Book](https://www.infoq.com/minibooks/ruby/)
 * [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * [Ruby Koans](http://rubykoans.com)
@@ -12,9 +10,8 @@ Tutorials
 ### Rails
 * [RailsBridge Intro To Rails](http://docs.railsbridge.org/intro-to-rails/intro-to-rails)
 * [RailsGuides](http://guides.rubyonrails.org/)
-* [Rails for Zombies](http://railsforzombies.org/)
-* [Rails tutorial](http://ruby.railstutorial.org)
-* [Learn Rails](https://learn.thoughtbot.com/rails)
+* [Rails tutorial](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
+* [Learn Rails](https://thoughtbot.com/upcase/rails)
 * [A Quick Study of the Rails Directory Structure](http://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
 
 ### Testing
