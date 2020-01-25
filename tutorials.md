@@ -14,6 +14,10 @@ Tutorials
 * [Learn Rails](https://thoughtbot.com/upcase/rails)
 * [A Quick Study of the Rails Directory Structure](http://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
 
+### Rails deployment
+* [Deploying a Ruby app](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/standalone/oss/deploy_app_main.html)
+* [Deploying a rails application to AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html)
+
 ### Testing
 * [RSpec Tutorial With Examples](https://www.rubyguides.com/2018/07/rspec-tutorial/)
 
