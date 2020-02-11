@@ -38,7 +38,7 @@ else
     cd ~/uclibs/ucrate
 
     # Install Bundler
-    gem install bundler -v 1.17.3
+    gem install bundler -v 2.1.4
     bundle install
     bundle exec rake db:migrate
     printf "\nYou need to continue from Step 6 on the README ( https://github.com/uclibs/ucrate/blob/develop/README.md )"
