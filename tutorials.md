@@ -2,12 +2,14 @@ Tutorials
 ---------
 
 ### Ruby
+* [LinkedIn Learning: Ruby Essential Training: 1 The Basics](https://www.linkedin.com/learning/ruby-essential-training-1-the-basics)
 * [Mr. Neighborly's Humble Little Ruby Book](https://www.infoq.com/minibooks/ruby/)
 * [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * [Ruby Koans](http://rubykoans.com)
 
 ### Rails
+* [LinkedIn Learning: Ruby on Rails 5 Essential Training](https://www.linkedin.com/learning/ruby-on-rails-5-essential-training)
 * [RailsBridge Intro To Rails](http://docs.railsbridge.org/intro-to-rails/intro-to-rails)
 * [RailsGuides](http://guides.rubyonrails.org/)
 * [Rails tutorial](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
