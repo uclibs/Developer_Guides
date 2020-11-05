@@ -21,6 +21,7 @@ Tutorials
 * [Deploying a rails application to AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ruby-rails-tutorial.html)
 
 ### Testing
+* [LinkedIn Learning: Ruby Testing with RSpec](https://www.linkedin.com/learning/ruby-testing-with-rspec?u=2133849)
 * [RSpec Tutorial With Examples](https://www.rubyguides.com/2018/07/rspec-tutorial/)
 
 ### Debugging
