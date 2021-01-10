@@ -21,6 +21,7 @@
 ### Rails Framework
 * [Installing and Running Ruby on Rails 5: Mac](https://www.linkedin.com/learning/installing-and-running-ruby-on-rails-5-mac)
 * [Ruby on Rails 5 Essential Training](https://www.linkedin.com/learning/ruby-on-rails-5-essential-training?u=2133849)
+* [Background Jobs with SideKiq](https://www.youtube.com/watch?v=CStZg8ql9Vs) ([source](https://github.com/mperham/sidekiq/))
 
 ### Testing Ruby
 * [Ruby: Testing with RSpec](https://www.linkedin.com/learning/ruby-testing-with-rspec) ([source](https://github.com/rspec/rspec))
