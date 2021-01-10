@@ -1,5 +1,4 @@
-Tutorials
----------
+# Tutorials
 
 ## Onboarding
 
@@ -55,7 +54,6 @@ Tutorials
 ## Additional Resources
 
 ### MacOS Development Environment
-* [The Command Line Crash Course - Learn to Code the Hard Way](http://cli.learncodethehardway.org/book/)
 * [Learn Enough Command Line to be Dangerous](http://www.learnenough.com/command-line-tutorial)
 * [Linux command line tutorial](http://linuxcommand.org)
 * [Linux Survival](http://linuxsurvival.com)
@@ -79,7 +77,6 @@ Tutorials
 * [Code Clinic: Ruby](https://www.linkedin.com/learning/code-clinic-ruby)
 * [Mr. Neighborly's Humble Little Ruby Book](https://www.infoq.com/minibooks/ruby/)
 * [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * [Ruby Koans](http://rubykoans.com)
 
 ### Rails Framework
@@ -101,8 +98,8 @@ Tutorials
 * [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes)
 
 ### Samvera
-* [Dive into Hydra](https://github.com/projecthydra/hydra/wiki/Dive-into-Hydra)
-* [Installing and Configuring Fedora 4](https://wiki.duraspace.org/display/FF/Training+-+Administrator+Introduction)
+* [Dive into Hydra](https://github.com/samvera-deprecated/hydra/wiki/Dive-into-Hydra-)
+* [Installing and Configuring Fedora 4](https://wiki.lyrasis.org/display/FF/Training)
 
 ### Python
 * (coming soon)
