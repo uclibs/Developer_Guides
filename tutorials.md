@@ -100,6 +100,7 @@
 
 ### Samvera
 * [Dive into Hydra](https://github.com/samvera-deprecated/hydra/wiki/Dive-into-Hydra-)
+* [Samvera Knowledge Base](https://samvera.github.io)
 * [Installing and Configuring Fedora 4](https://wiki.lyrasis.org/display/FF/Training)
 
 ### Python
