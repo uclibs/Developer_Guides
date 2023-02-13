@@ -1,0 +1,11 @@
+-create repository in github
+-On CL, clone repository to local folder for the exhibit. Will be empty:
+--git clone git@github.com:uclibs/exhibitname.git 
+create 
+Connect to jump server:
+--ssh name@sshap1prd01l.ad.uc.edu -L 2222:10.23.78.90:22
+In new tab, navigate to new local exhibit folder
+Begin sftp session:
+----sftp -P 2222 6+2@localhost
+cd to remote exhibit directory
+mget -r directoryname (do for each directory)
