@@ -4,8 +4,9 @@
 create 
 Connect to jump server:
 --ssh name@sshap1prd01l.ad.uc.edu -L 2222:10.23.78.90:22
-In new tab, navigate to new local exhibit folder
+In new tab, navigate to  inside new local exhibit folder
 Begin sftp session:
 ----sftp -P 2222 6+2@localhost
-cd to remote exhibit directory
-mget -r directoryname (do for each directory)
+cd to inside remote exhibit directory
+mget * (this should download files inside remote directory to inside local local directory)
+
