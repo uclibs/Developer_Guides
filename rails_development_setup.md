@@ -8,7 +8,7 @@ Setting up Rails/Samvera development on a Mac
 1. `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. `brew update`
 1. `brew tap AdoptOpenJDK/openjdk`
-1. `brew cask install adoptopenjdk8`
+1. `brew install --cask adoptopenjdk8`
 1. `brew install clamav git imagemagick libvorbis libvpx openssl redis sqlite ghostscript mysql wget tmux ffmpeg`
 
 ### Install rvm
